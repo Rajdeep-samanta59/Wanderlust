@@ -1,0 +1,1 @@
+WanderLust is a full-stack web application that allows users to browse, search, and book hotels seamlessly.It includes secure login and integrates Mapbox for interactive location mapping, enhancing the user experience.
